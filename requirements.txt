@@ -1,0 +1,5 @@
+#This file contains all the requirements to run this project on a new system
+#Use pip install -r requirements.txt to install all the requirements
+Django==3.2.9		#to install the django admin
+requests            #to install the requests
+django-dotenv      #to install dotenv

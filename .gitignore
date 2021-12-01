@@ -1,0 +1,5 @@
+#log files
+*.log
+
+#django cache files
+__pycache__/
